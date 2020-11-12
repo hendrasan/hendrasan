@@ -26,9 +26,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm ci
+    - run: npm install
     - run: npm run build --if-present
-    - run: npm test
     - name: Configure git
       run: |
         git config --global user.email "readme-bot@example.com"
