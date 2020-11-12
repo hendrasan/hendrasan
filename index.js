@@ -8,6 +8,7 @@ let randomEmoji = emoji.random();
         owner: 'hendrasan',
         repo: 'hendrasan',
         token: process.env.GITHUB_TOKEN,
-        section: 'emoji'
+        section: 'emoji',
+        branch: 'main'
     });
 })();
