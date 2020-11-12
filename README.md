@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Emoji of the day
-
-![Get Random Emoji](https://random-github-emoji.vercel.app/api)
-
 <!--
 **hendrasan/hendrasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
