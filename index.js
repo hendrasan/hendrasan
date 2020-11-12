@@ -9,6 +9,5 @@ let randomEmoji = emoji.random();
         repo: 'hendrasan',
         token: process.env.GITHUB_TOKEN,
         section: 'emoji',
-        branch: 'main'
     });
 })();
