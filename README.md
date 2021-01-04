@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Emoji of the day:
+My emoji for today is:
 
 <!--START_SECTION:emoji-->
 🚶‍♂️
